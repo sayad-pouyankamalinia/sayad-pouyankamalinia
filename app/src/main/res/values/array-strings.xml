@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="madraklist">
+
+    <item>diplom</item>
+    <item>fogh-diplom</item>
+    <item>Lisans</item>
+    <item>arshad</item>
+    <item>PHD</item>
+</string-array>
+</resources>
